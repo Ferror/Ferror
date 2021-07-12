@@ -1,26 +1,39 @@
-## Hi there 👋
+# Hello There 👋
 
-### Projects I'm working on
+## About Me!
 
-#### PHPScan
+My name is Zbigniew, and I am a PHP programmer & Tech Lead.
+I have started my adventure in technical middle school, where I started learning how to write simple websites and C++ applications to become a unicorn programmer. Just after getting my degree, I got a job at Landingi as a Junior PHP Developer. I worked hard, and just after a year, I got a promotion that removed my junior prefix 🥇. In 2020 I got promoted to Tech Lead, and at the highest pick, I had lead 6th developers - both frontend and backend. Mostly, juniors and regulars.
+
+## Product Ideas
+
+### The Book of Domains
+Place where you could buy, create and share Domain Specific logics.
+
+## Projects I'm working on
+
+### PHPScan
+#### Status: Suspended
+#### Description
+I would like to improve analysis of layers (namespaces) in Bounded Context Driven projects. Currently the most popular tool to do that is [Deptrac](https://github.com/qossmic/deptrac)
+
+### Markdown Converter
 Status: In Progress
 Description: @todo
 
-#### Markdown Converter
+### PHPQuery
 Status: In Progress
 Description: @todo
 
-#### PHPQuery
-Status: In Progress
-Description: @todo
-
-#### Grave
+### Grave
 Status: Done
 Description: @todo
 
-#### Hexagon
+### Hexagon
 Status: In Progress
 Description: @todo
+
+
 
 ## Services I'm using
 * Badges [https://badgen.net]
