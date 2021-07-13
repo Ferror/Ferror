@@ -33,11 +33,12 @@ Description: @todo
 Status: In Progress
 Description: @todo
 
-
-
 ## Services I'm using
 * Badges [https://badgen.net]
 * Graphic Mapping [https://miro.com/]
 * UI/UX [https://figma.com]
 * Tasks [https://todoist.com]
 * DNS [https://www.cloudflare.com]
+
+# Stats
+[![Ferror](https://github-readme-stats.vercel.app/api?username=Ferror)](https://github.com/Ferror)
