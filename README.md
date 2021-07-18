@@ -18,12 +18,13 @@ Place where you could buy, create and share Domain Specific logics.
 I would like to improve analysis of layers (namespaces) in Bounded Context Driven projects. Currently the most popular tool to do that is [Deptrac](https://github.com/qossmic/deptrac)
 
 ### Markdown Converter
-Status: In Progress
-Description: @todo
+#### Status: In Progress
+#### Description: @todo
 
 ### PHPQuery
-Status: In Progress
-Description: @todo
+#### Status: Suspended
+#### Description
+A Simple library that will help you to test the execution time of your queries.
 
 ### Grave
 Status: Done
