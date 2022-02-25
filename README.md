@@ -2,15 +2,16 @@
 
 ## About Me!
 
-My name is Zbigniew, and I am a PHP programmer & Tech Lead.
-I have started my adventure in technical middle school, where I started learning how to write simple websites and C++ applications to become a unicorn programmer. Just after getting my degree, I got a job at Landingi as a Junior PHP Developer. I worked hard, and just after a year, I got a promotion that removed my junior prefix 🥇. In 2020 I got promoted to Tech Lead, and at the highest pick, I had lead 6th developers - both frontend and backend. Mostly, juniors and regulars.
+Hello There! My name is Zbigniew, and I am a PHP programmer & Tech Lead.
+
+I have started my adventure in technical middle school (2014), where I started learning how to write simple websites and C++ applications to later became a unicorn programmer. After I got my technical degree, I started working at Landingi as a Junior PHP Developer. I worked hard, and after a year, I got a promotion that removed my junior prefix 🥇. In 2020 I got promoted to Tech Lead, and at the highest pick, I had led 6th developers - both frontend and backend. Mostly, juniors and regulars. In the meantime, I was studying at the Silesian University of Technology wherein in 2022, I gained an Engineering degree in Information Technology.
 
 ## Product Ideas
 
 ### The Book of Domains
 Place where you could buy, create and share Domain Specific logics.
 
-## Projects I'm working on
+## Personal Projects
 
 ### PHPScan
 #### Status: Suspended
@@ -27,12 +28,10 @@ I would like to improve analysis of layers (namespaces) in Bounded Context Drive
 A Simple library that will help you to test the execution time of your queries.
 
 ### Grave
-Status: Done
-Description: @todo
-
-### Hexagon
-Status: In Progress
-Description: @todo
+#### Status: Done
+#### Under: https://grave.malcherczyk.com/
+#### Description
+Simple idea to create html-only CSS framework. In my opinion the CSS imports and variables are so powerful that you may not need a complex frontend framework. The Grave project does provide some components that are custom HTML tags.
 
 ## Services I'm using
 * Badges [https://badgen.net]
