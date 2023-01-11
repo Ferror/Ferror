@@ -22,3 +22,7 @@ What's gonna be next?
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
+
+>
+> Psst! Some of my contributions are super secret 😅
+>
