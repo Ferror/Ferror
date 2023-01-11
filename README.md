@@ -31,3 +31,7 @@ What's gonna be next?
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.1), 1 month ago) - Open Source eCommerce Framework on Symfony
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.2](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.2), 1 month ago) - Open Source eCommerce Application on top of Symfony
 - [Sylius/SyliusMailerBundle](https://github.com/Sylius/SyliusMailerBundle) ([v2.0.0](https://github.com/Sylius/SyliusMailerBundle/releases/tag/v2.0.0), 1 month ago) - Simple e-mails sending!
+
+>
+> Psst! Some of my contributions are super secret 😅
+>
