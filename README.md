@@ -10,24 +10,24 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (today)
+- [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing  (today)
 - [Ferror/minecraft-server](https://github.com/Ferror/minecraft-server) - Minecraft Server Docker Compose spec (1 week ago)
-- [Ferror/payments](https://github.com/Ferror/payments) -  (2 weeks ago)
+- [Ferror/payments](https://github.com/Ferror/payments) -  (3 weeks ago)
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony (1 month ago)
-- [Sylius/SyliusSalesDemo](https://github.com/Sylius/SyliusSalesDemo) -  (1 month ago)
-- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Open Source eCommerce Application on top of Symfony (1 month ago)
 
 #### 🌱 My latest projects
 
+- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain
+- [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing 
 - [Ferror/minecraft-server](https://github.com/Ferror/minecraft-server) - Minecraft Server Docker Compose spec
 - [Ferror/contract-backward-compatibility](https://github.com/Ferror/contract-backward-compatibility) - A simple library to decide if you break the backward compatibility for events
 - [Ferror/monorepo-template](https://github.com/Ferror/monorepo-template) - Monorepo based on symplify monorepo builder
-- [Ferror/docker-images](https://github.com/Ferror/docker-images) - Monorepo for all docker images I&#39;m working on
-- [Ferror/graveyard](https://github.com/Ferror/graveyard) - The place for my proof of concepts. The idea is to minimise the amount of repositories
 
 #### 🔭 Latest releases I've contributed to
 
 - [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) ([v1.10.2](https://github.com/Sylius/SyliusResourceBundle/releases/tag/v1.10.2), 1 week ago) - Simpler CRUD for Symfony applications
-- [SyliusLabs/PolyfillSymfonySecurity](https://github.com/SyliusLabs/PolyfillSymfonySecurity) ([v1.1.2](https://github.com/SyliusLabs/PolyfillSymfonySecurity/releases/tag/v1.1.2), 3 weeks ago) - Symfony Security Polyfill
+- [SyliusLabs/PolyfillSymfonySecurity](https://github.com/SyliusLabs/PolyfillSymfonySecurity) ([v1.1.2](https://github.com/SyliusLabs/PolyfillSymfonySecurity/releases/tag/v1.1.2), 4 weeks ago) - Symfony Security Polyfill
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.1), 1 month ago) - Open Source eCommerce Framework on Symfony
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.2](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.2), 1 month ago) - Open Source eCommerce Application on top of Symfony
 - [Sylius/SyliusMailerBundle](https://github.com/Sylius/SyliusMailerBundle) ([v2.0.0](https://github.com/Sylius/SyliusMailerBundle/releases/tag/v2.0.0), 1 month ago) - Simple e-mails sending!
