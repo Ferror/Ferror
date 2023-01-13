@@ -26,9 +26,9 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.2](https://github.com/Sylius/Sylius/releases/tag/v1.12.2), today) - Open Source eCommerce Framework on Symfony
 - [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) ([v1.10.2](https://github.com/Sylius/SyliusResourceBundle/releases/tag/v1.10.2), 1 week ago) - Simpler CRUD for Symfony applications
 - [SyliusLabs/PolyfillSymfonySecurity](https://github.com/SyliusLabs/PolyfillSymfonySecurity) ([v1.1.2](https://github.com/SyliusLabs/PolyfillSymfonySecurity/releases/tag/v1.1.2), 4 weeks ago) - Symfony Security Polyfill
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.1](https://github.com/Sylius/Sylius/releases/tag/v1.12.1), 1 month ago) - Open Source eCommerce Framework on Symfony
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.2](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.2), 1 month ago) - Open Source eCommerce Application on top of Symfony
 - [Sylius/SyliusMailerBundle](https://github.com/Sylius/SyliusMailerBundle) ([v2.0.0](https://github.com/Sylius/SyliusMailerBundle/releases/tag/v2.0.0), 1 month ago) - Simple e-mails sending!
 
