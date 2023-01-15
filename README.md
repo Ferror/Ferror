@@ -10,8 +10,8 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (3 days ago)
 - [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing  (3 days ago)
+- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (3 days ago)
 - [Ferror/minecraft-server](https://github.com/Ferror/minecraft-server) - Minecraft Server Docker Compose spec (2 weeks ago)
 - [Ferror/payments](https://github.com/Ferror/payments) -  (3 weeks ago)
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony (1 month ago)
