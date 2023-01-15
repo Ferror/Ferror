@@ -10,9 +10,9 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (2 days ago)
-- [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing  (2 days ago)
-- [Ferror/minecraft-server](https://github.com/Ferror/minecraft-server) - Minecraft Server Docker Compose spec (1 week ago)
+- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (3 days ago)
+- [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing  (3 days ago)
+- [Ferror/minecraft-server](https://github.com/Ferror/minecraft-server) - Minecraft Server Docker Compose spec (2 weeks ago)
 - [Ferror/payments](https://github.com/Ferror/payments) -  (3 weeks ago)
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony (1 month ago)
 
@@ -26,7 +26,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.3](https://github.com/Sylius/Sylius/releases/tag/v1.12.3), 1 day ago) - Open Source eCommerce Framework on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.3](https://github.com/Sylius/Sylius/releases/tag/v1.12.3), 2 days ago) - Open Source eCommerce Framework on Symfony
 - [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) ([v1.10.2](https://github.com/Sylius/SyliusResourceBundle/releases/tag/v1.10.2), 1 week ago) - Simpler CRUD for Symfony applications
 - [SyliusLabs/PolyfillSymfonySecurity](https://github.com/SyliusLabs/PolyfillSymfonySecurity) ([v1.1.2](https://github.com/SyliusLabs/PolyfillSymfonySecurity/releases/tag/v1.1.2), 1 month ago) - Symfony Security Polyfill
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.2](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.2), 1 month ago) - Open Source eCommerce Application on top of Symfony
