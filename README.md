@@ -10,8 +10,8 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (today)
 - [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) -  (3 days ago)
-- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (1 week ago)
 - [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing  (1 week ago)
 - [Ferror/minecraft-server](https://github.com/Ferror/minecraft-server) - Minecraft Server Docker Compose spec (2 weeks ago)
 - [Ferror/payments](https://github.com/Ferror/payments) -  (1 month ago)
