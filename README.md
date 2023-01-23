@@ -10,8 +10,8 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (1 day ago)
-- [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) -  (4 days ago)
+- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (2 days ago)
+- [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) -  (5 days ago)
 - [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing  (1 week ago)
 - [Ferror/minecraft-server](https://github.com/Ferror/minecraft-server) - Minecraft Server Docker Compose spec (3 weeks ago)
 - [Ferror/payments](https://github.com/Ferror/payments) -  (1 month ago)
@@ -30,7 +30,7 @@ What's gonna be next?
 - [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) ([v1.10.2](https://github.com/Sylius/SyliusResourceBundle/releases/tag/v1.10.2), 2 weeks ago) - Simpler CRUD for Symfony applications
 - [SyliusLabs/PolyfillSymfonySecurity](https://github.com/SyliusLabs/PolyfillSymfonySecurity) ([v1.1.2](https://github.com/SyliusLabs/PolyfillSymfonySecurity/releases/tag/v1.1.2), 1 month ago) - Symfony Security Polyfill
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.2](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.2), 1 month ago) - Open Source eCommerce Application on top of Symfony
-- [Sylius/SyliusMailerBundle](https://github.com/Sylius/SyliusMailerBundle) ([v2.0.0](https://github.com/Sylius/SyliusMailerBundle/releases/tag/v2.0.0), 1 month ago) - Simple e-mails sending!
+- [Sylius/SyliusMailerBundle](https://github.com/Sylius/SyliusMailerBundle) ([v2.0.0](https://github.com/Sylius/SyliusMailerBundle/releases/tag/v2.0.0), 2 months ago) - Simple e-mails sending!
 
 >
 > Psst! Some of my contributions are super secret 😅
