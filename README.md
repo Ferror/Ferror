@@ -10,11 +10,11 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (today)
 - [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (3 days ago)
 - [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) -  (6 days ago)
 - [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing  (1 week ago)
 - [Ferror/minecraft-server](https://github.com/Ferror/minecraft-server) - Minecraft Server Docker Compose spec (3 weeks ago)
-- [Ferror/payments](https://github.com/Ferror/payments) -  (1 month ago)
 
 #### 🌱 My latest projects
 
