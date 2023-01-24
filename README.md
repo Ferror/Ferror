@@ -26,11 +26,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.0.0](https://github.com/asyncapi/modelina/releases/tag/v1.0.0), today) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.3](https://github.com/Sylius/Sylius/releases/tag/v1.12.3), 1 week ago) - Open Source eCommerce Framework on Symfony
 - [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) ([v1.10.2](https://github.com/Sylius/SyliusResourceBundle/releases/tag/v1.10.2), 2 weeks ago) - Simpler CRUD for Symfony applications
 - [SyliusLabs/PolyfillSymfonySecurity](https://github.com/SyliusLabs/PolyfillSymfonySecurity) ([v1.1.2](https://github.com/SyliusLabs/PolyfillSymfonySecurity/releases/tag/v1.1.2), 1 month ago) - Symfony Security Polyfill
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.2](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.2), 1 month ago) - Open Source eCommerce Application on top of Symfony
-- [Sylius/SyliusMailerBundle](https://github.com/Sylius/SyliusMailerBundle) ([v2.0.0](https://github.com/Sylius/SyliusMailerBundle/releases/tag/v2.0.0), 2 months ago) - Simple e-mails sending!
 
 >
 > Psst! Some of my contributions are super secret 😅
