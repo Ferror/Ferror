@@ -18,11 +18,11 @@ What's gonna be next?
 
 #### 🌱 My latest projects
 
+- [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP
 - [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) - 
 - [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain
 - [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing 
 - [Ferror/minecraft-server](https://github.com/Ferror/minecraft-server) - Minecraft Server Docker Compose spec
-- [Ferror/contract-backward-compatibility](https://github.com/Ferror/contract-backward-compatibility) - A simple library to decide if you break the backward compatibility for events
 
 #### 🔭 Latest releases I've contributed to
 
