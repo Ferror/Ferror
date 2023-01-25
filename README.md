@@ -10,11 +10,11 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP (today)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (1 day ago)
 - [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (4 days ago)
 - [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) -  (1 week ago)
 - [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing  (1 week ago)
-- [Ferror/minecraft-server](https://github.com/Ferror/minecraft-server) - Minecraft Server Docker Compose spec (3 weeks ago)
 
 #### 🌱 My latest projects
 
