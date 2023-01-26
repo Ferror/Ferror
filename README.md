@@ -10,11 +10,11 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (today)
 - [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP (1 day ago)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (2 days ago)
 - [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (5 days ago)
 - [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) -  (1 week ago)
-- [Ferror/auction-house](https://github.com/Ferror/auction-house) - Auctioning Domain made with Event Sourcing  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@ What's gonna be next?
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.1.0](https://github.com/asyncapi/modelina/releases/tag/v1.1.0), 1 day ago) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.3](https://github.com/Sylius/Sylius/releases/tag/v1.12.3), 1 week ago) - Open Source eCommerce Framework on Symfony
 - [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) ([v1.10.2](https://github.com/Sylius/SyliusResourceBundle/releases/tag/v1.10.2), 3 weeks ago) - Simpler CRUD for Symfony applications
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.26.0](https://github.com/serverless/serverless/releases/tag/v3.26.0), 1 month ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [SyliusLabs/PolyfillSymfonySecurity](https://github.com/SyliusLabs/PolyfillSymfonySecurity) ([v1.1.2](https://github.com/SyliusLabs/PolyfillSymfonySecurity/releases/tag/v1.1.2), 1 month ago) - Symfony Security Polyfill
-- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.2](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.2), 1 month ago) - Open Source eCommerce Application on top of Symfony
 
 >
 > Psst! Some of my contributions are super secret 😅
