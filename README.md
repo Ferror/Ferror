@@ -26,7 +26,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.2.0](https://github.com/asyncapi/modelina/releases/tag/v1.2.0), today) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.2.1](https://github.com/asyncapi/modelina/releases/tag/v1.2.1), today) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.4](https://github.com/Sylius/Sylius/releases/tag/v1.12.4), 1 day ago) - Open Source eCommerce Framework on Symfony
 - [danharrin/monorepo-split-github-action](https://github.com/danharrin/monorepo-split-github-action) ([v2.3.0](https://github.com/danharrin/monorepo-split-github-action/releases/tag/v2.3.0), 2 days ago) - Github Action for Monorepo Split
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.27.0](https://github.com/serverless/serverless/releases/tag/v3.27.0), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
