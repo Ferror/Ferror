@@ -12,7 +12,7 @@ What's gonna be next?
 
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (2 weeks ago)
 - [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP (2 weeks ago)
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (2 weeks ago)
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) - Library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (3 weeks ago)
 - [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (3 weeks ago)
 - [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) - To define a way to simply notify group of people about PHP &amp; Symfony version releases (3 weeks ago)
 
