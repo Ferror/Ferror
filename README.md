@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/malcherczyk-pl-website](https://github.com/Ferror/malcherczyk-pl-website) - The polish version of my website based on grave framework (today)
+- [Ferror/malcherczyk-pl-website](https://github.com/Ferror/malcherczyk-pl-website) - The polish version of my website based on grave framework (1 day ago)
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (3 weeks ago)
 - [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP (3 weeks ago)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (3 weeks ago)
@@ -26,7 +26,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.2.1](https://github.com/asyncapi/modelina/releases/tag/v1.2.1), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.2.1](https://github.com/asyncapi/modelina/releases/tag/v1.2.1), 2 weeks ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.4](https://github.com/Sylius/Sylius/releases/tag/v1.12.4), 2 weeks ago) - Open Source eCommerce Framework on Symfony
 - [danharrin/monorepo-split-github-action](https://github.com/danharrin/monorepo-split-github-action) ([v2.3.0](https://github.com/danharrin/monorepo-split-github-action/releases/tag/v2.3.0), 2 weeks ago) - Github Action for Monorepo Split
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.27.0](https://github.com/serverless/serverless/releases/tag/v3.27.0), 3 weeks ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
