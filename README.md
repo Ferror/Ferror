@@ -10,10 +10,10 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/malcherczyk-pl-website](https://github.com/Ferror/malcherczyk-pl-website) - The polish version of my website based on grave framework (6 days ago)
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (3 weeks ago)
+- [Ferror/malcherczyk-pl-website](https://github.com/Ferror/malcherczyk-pl-website) - The polish version of my website based on grave framework (1 week ago)
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (4 weeks ago)
 - [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP (4 weeks ago)
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (4 weeks ago)
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (1 month ago)
 - [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (1 month ago)
 
 #### 🌱 My latest projects
@@ -26,10 +26,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.5](https://github.com/Sylius/Sylius/releases/tag/v1.12.5), 1 day ago) - Open Source eCommerce Framework on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.5](https://github.com/Sylius/Sylius/releases/tag/v1.12.5), 2 days ago) - Open Source eCommerce Framework on Symfony
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.2.1](https://github.com/asyncapi/modelina/releases/tag/v1.2.1), 2 weeks ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [danharrin/monorepo-split-github-action](https://github.com/danharrin/monorepo-split-github-action) ([v2.3.0](https://github.com/danharrin/monorepo-split-github-action/releases/tag/v2.3.0), 3 weeks ago) - Github Action for Monorepo Split
-- [serverless/serverless](https://github.com/serverless/serverless) ([v3.27.0](https://github.com/serverless/serverless/releases/tag/v3.27.0), 3 weeks ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.27.0](https://github.com/serverless/serverless/releases/tag/v3.27.0), 4 weeks ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) ([v1.10.2](https://github.com/Sylius/SyliusResourceBundle/releases/tag/v1.10.2), 1 month ago) - Simpler CRUD for Symfony applications
 
 >
