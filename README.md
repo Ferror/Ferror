@@ -10,8 +10,8 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework (1 week ago)
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) -  (1 week ago)
+- [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework (1 week ago)
 - [Ferror/malcherczyk-pl-website](https://github.com/Ferror/malcherczyk-pl-website) - The polish version of my website based on grave framework (2 weeks ago)
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (1 month ago)
 - [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP (1 month ago)
