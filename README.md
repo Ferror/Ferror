@@ -12,13 +12,13 @@ What's gonna be next?
 
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (6 days ago)
 - [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework (1 month ago)
-- [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) -  (1 month ago)
+- [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app (1 month ago)
 - [Ferror/malcherczyk-pl-website](https://github.com/Ferror/malcherczyk-pl-website) - The polish version of my website based on grave framework (1 month ago)
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (2 months ago)
 
 #### 🌱 My latest projects
 
-- [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - 
+- [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app
 - [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework
 - [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP
 - [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) - To define a way to simply notify group of people about PHP &amp; Symfony version releases
