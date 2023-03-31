@@ -26,11 +26,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.3](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.3), today) - Open Source eCommerce Application on top of Symfony
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.3.1](https://github.com/asyncapi/modelina/releases/tag/v1.3.1), 2 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.6](https://github.com/Sylius/Sylius/releases/tag/v1.12.6), 3 days ago) - Open Source eCommerce Framework on Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.29.0](https://github.com/serverless/serverless/releases/tag/v3.29.0), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [danharrin/monorepo-split-github-action](https://github.com/danharrin/monorepo-split-github-action) ([v2.3.0](https://github.com/danharrin/monorepo-split-github-action/releases/tag/v2.3.0), 1 month ago) - Github Action for Monorepo Split
-- [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) ([v1.10.2](https://github.com/Sylius/SyliusResourceBundle/releases/tag/v1.10.2), 2 months ago) - Simpler CRUD for Symfony applications
 
 >
 > Psst! Some of my contributions are super secret 😅
