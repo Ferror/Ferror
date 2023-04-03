@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (3 days ago)
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (4 days ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (1 week ago)
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app (1 month ago)
 - [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework (1 month ago)
@@ -26,9 +26,9 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.3](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.3), 2 days ago) - Open Source eCommerce Application on top of Symfony
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.3.1](https://github.com/asyncapi/modelina/releases/tag/v1.3.1), 4 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.6](https://github.com/Sylius/Sylius/releases/tag/v1.12.6), 5 days ago) - Open Source eCommerce Framework on Symfony
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.3](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.3), 3 days ago) - Open Source eCommerce Application on top of Symfony
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.3.1](https://github.com/asyncapi/modelina/releases/tag/v1.3.1), 5 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.6](https://github.com/Sylius/Sylius/releases/tag/v1.12.6), 6 days ago) - Open Source eCommerce Framework on Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.29.0](https://github.com/serverless/serverless/releases/tag/v3.29.0), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [danharrin/monorepo-split-github-action](https://github.com/danharrin/monorepo-split-github-action) ([v2.3.0](https://github.com/danharrin/monorepo-split-github-action/releases/tag/v2.3.0), 2 months ago) - Github Action for Monorepo Split
 
