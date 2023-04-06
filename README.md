@@ -26,10 +26,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.7](https://github.com/Sylius/Sylius/releases/tag/v1.12.7), today) - Open Source eCommerce Framework on Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.30.0](https://github.com/serverless/serverless/releases/tag/v3.30.0), 1 day ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.6](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.6), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.3](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.3), 6 days ago) - Open Source eCommerce Application on top of Symfony
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.6](https://github.com/Sylius/Sylius/releases/tag/v1.12.6), 1 week ago) - Open Source eCommerce Framework on Symfony
 - [danharrin/monorepo-split-github-action](https://github.com/danharrin/monorepo-split-github-action) ([v2.3.0](https://github.com/danharrin/monorepo-split-github-action/releases/tag/v2.3.0), 2 months ago) - Github Action for Monorepo Split
 
 >
