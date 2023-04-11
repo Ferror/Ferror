@@ -11,7 +11,7 @@ What's gonna be next?
 #### 👷 Check out what I'm currently working on
 
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (1 week ago)
-- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (2 weeks ago)
+- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (3 weeks ago)
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app (1 month ago)
 - [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework (1 month ago)
 - [Ferror/malcherczyk-pl-website](https://github.com/Ferror/malcherczyk-pl-website) - The polish version of my website based on grave framework (1 month ago)
@@ -26,10 +26,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [serverless/serverless](https://github.com/serverless/serverless) ([v3.30.1](https://github.com/serverless/serverless/releases/tag/v3.30.1), 4 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-- [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) ([v1.12.2](https://github.com/Sylius/PluginSkeleton/releases/tag/v1.12.2), 4 days ago) - Skeleton for starting Sylius plugins.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.7](https://github.com/Sylius/Sylius/releases/tag/v1.12.7), 4 days ago) - Open Source eCommerce Framework on Symfony
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.6](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.6), 5 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.30.1](https://github.com/serverless/serverless/releases/tag/v3.30.1), 5 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+- [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) ([v1.12.2](https://github.com/Sylius/PluginSkeleton/releases/tag/v1.12.2), 5 days ago) - Skeleton for starting Sylius plugins.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.7](https://github.com/Sylius/Sylius/releases/tag/v1.12.7), 5 days ago) - Open Source eCommerce Framework on Symfony
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.6](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.6), 6 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.3](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.3), 1 week ago) - Open Source eCommerce Application on top of Symfony
 
 >
