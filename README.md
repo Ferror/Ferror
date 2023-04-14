@@ -30,7 +30,7 @@ What's gonna be next?
 - [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) ([v1.12.2](https://github.com/Sylius/PluginSkeleton/releases/tag/v1.12.2), 1 week ago) - Skeleton for starting Sylius plugins.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.7](https://github.com/Sylius/Sylius/releases/tag/v1.12.7), 1 week ago) - Open Source eCommerce Framework on Symfony
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.6](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.6), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.3](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.3), 1 week ago) - Open Source eCommerce Application on top of Symfony
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.3](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.3), 2 weeks ago) - Open Source eCommerce Application on top of Symfony
 
 >
 > Psst! Some of my contributions are super secret 😅
