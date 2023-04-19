@@ -26,10 +26,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.7](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.7), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.30.1](https://github.com/serverless/serverless/releases/tag/v3.30.1), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) ([v1.12.2](https://github.com/Sylius/PluginSkeleton/releases/tag/v1.12.2), 1 week ago) - Skeleton for starting Sylius plugins.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.7](https://github.com/Sylius/Sylius/releases/tag/v1.12.7), 1 week ago) - Open Source eCommerce Framework on Symfony
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.6](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.6), 2 weeks ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.3](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.3), 2 weeks ago) - Open Source eCommerce Application on top of Symfony
 
 >
