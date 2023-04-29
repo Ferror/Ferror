@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (4 weeks ago)
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (1 month ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (1 month ago)
 - [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework (2 months ago)
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app (2 months ago)
@@ -26,7 +26,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.4](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.4), 2 days ago) - Open Source eCommerce Application on top of Symfony
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.4](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.4), 3 days ago) - Open Source eCommerce Application on top of Symfony
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.4.0](https://github.com/asyncapi/modelina/releases/tag/v1.4.0), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.30.1](https://github.com/serverless/serverless/releases/tag/v3.30.1), 3 weeks ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) ([v1.12.2](https://github.com/Sylius/PluginSkeleton/releases/tag/v1.12.2), 3 weeks ago) - Skeleton for starting Sylius plugins.
