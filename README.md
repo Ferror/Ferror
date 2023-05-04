@@ -27,10 +27,10 @@ What's gonna be next?
 #### 🔭 Latest releases I've contributed to
 
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.4](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.4), 1 week ago) - Open Source eCommerce Application on top of Symfony
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.4.0](https://github.com/asyncapi/modelina/releases/tag/v1.4.0), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [serverless/serverless](https://github.com/serverless/serverless) ([v3.30.1](https://github.com/serverless/serverless/releases/tag/v3.30.1), 3 weeks ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-- [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) ([v1.12.2](https://github.com/Sylius/PluginSkeleton/releases/tag/v1.12.2), 3 weeks ago) - Skeleton for starting Sylius plugins.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.7](https://github.com/Sylius/Sylius/releases/tag/v1.12.7), 3 weeks ago) - Open Source eCommerce Framework on Symfony
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.4.0](https://github.com/asyncapi/modelina/releases/tag/v1.4.0), 2 weeks ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.30.1](https://github.com/serverless/serverless/releases/tag/v3.30.1), 4 weeks ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+- [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) ([v1.12.2](https://github.com/Sylius/PluginSkeleton/releases/tag/v1.12.2), 4 weeks ago) - Skeleton for starting Sylius plugins.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.7](https://github.com/Sylius/Sylius/releases/tag/v1.12.7), 4 weeks ago) - Open Source eCommerce Framework on Symfony
 
 >
 > Psst! Some of my contributions are super secret 😅
