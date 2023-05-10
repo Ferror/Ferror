@@ -26,11 +26,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.0](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.0), today) - A PHP client for DogStatsd
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.10](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.10), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.4](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.4), 2 weeks ago) - Open Source eCommerce Application on top of Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.30.1](https://github.com/serverless/serverless/releases/tag/v3.30.1), 1 month ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) ([v1.12.2](https://github.com/Sylius/PluginSkeleton/releases/tag/v1.12.2), 1 month ago) - Skeleton for starting Sylius plugins.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.7](https://github.com/Sylius/Sylius/releases/tag/v1.12.7), 1 month ago) - Open Source eCommerce Framework on Symfony
 
 >
 > Psst! Some of my contributions are super secret 😅
