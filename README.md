@@ -18,11 +18,11 @@ What's gonna be next?
 
 #### 🌱 My latest projects
 
+- [Ferror/workshop](https://github.com/Ferror/workshop) - 
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app
 - [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework
 - [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP
 - [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) - To define a way to simply notify group of people about PHP &amp; Symfony version releases
-- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain
 
 #### 🔭 Latest releases I've contributed to
 
