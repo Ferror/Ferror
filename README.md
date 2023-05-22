@@ -26,8 +26,8 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [serverless/serverless](https://github.com/serverless/serverless) ([v3.31.0](https://github.com/serverless/serverless/releases/tag/v3.31.0), 4 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.13](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.13), 6 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.31.0](https://github.com/serverless/serverless/releases/tag/v3.31.0), 5 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.13](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.13), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.0](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.0), 1 week ago) - A PHP client for DogStatsd
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.4](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.4), 3 weeks ago) - Open Source eCommerce Application on top of Symfony
 - [Sylius/PluginSkeleton](https://github.com/Sylius/PluginSkeleton) ([v1.12.2](https://github.com/Sylius/PluginSkeleton/releases/tag/v1.12.2), 1 month ago) - Skeleton for starting Sylius plugins.
