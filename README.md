@@ -10,9 +10,9 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (5 days ago)
-- [Ferror/workshop](https://github.com/Ferror/workshop) -  (6 days ago)
-- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) -  (6 days ago)
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (6 days ago)
+- [Ferror/workshop](https://github.com/Ferror/workshop) -  (1 week ago)
+- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) -  (1 week ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (2 months ago)
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app (3 months ago)
 
@@ -26,9 +26,9 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.3.1](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.3.1), today) - Elasticsearch PHP integration for your Symfony project using Elastica.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.8](https://github.com/Sylius/Sylius/releases/tag/v1.12.8), 3 days ago) - Open Source eCommerce Framework on Symfony
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.7.0](https://github.com/asyncapi/modelina/releases/tag/v1.7.0), 3 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.3.1](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.3.1), 1 day ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.8](https://github.com/Sylius/Sylius/releases/tag/v1.12.8), 4 days ago) - Open Source eCommerce Framework on Symfony
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.7.0](https://github.com/asyncapi/modelina/releases/tag/v1.7.0), 4 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.31.0](https://github.com/serverless/serverless/releases/tag/v3.31.0), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.0](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.0), 2 weeks ago) - A PHP client for DogStatsd
 
