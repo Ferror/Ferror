@@ -26,10 +26,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.32.0](https://github.com/serverless/serverless/releases/tag/v3.32.0), today) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.7.1](https://github.com/asyncapi/modelina/releases/tag/v1.7.1), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.3.1](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.3.1), 3 days ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.8](https://github.com/Sylius/Sylius/releases/tag/v1.12.8), 6 days ago) - Open Source eCommerce Framework on Symfony
-- [serverless/serverless](https://github.com/serverless/serverless) ([v3.31.0](https://github.com/serverless/serverless/releases/tag/v3.31.0), 2 weeks ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.0](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.0), 3 weeks ago) - A PHP client for DogStatsd
 
 >
