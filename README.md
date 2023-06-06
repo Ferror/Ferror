@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (5 days ago)
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (6 days ago)
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) -  (2 weeks ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (2 months ago)
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app (3 months ago)
@@ -26,8 +26,8 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.8.1](https://github.com/asyncapi/modelina/releases/tag/v1.8.1), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [serverless/serverless](https://github.com/serverless/serverless) ([v3.32.2](https://github.com/serverless/serverless/releases/tag/v3.32.2), 3 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.8.1](https://github.com/asyncapi/modelina/releases/tag/v1.8.1), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.32.2](https://github.com/serverless/serverless/releases/tag/v3.32.2), 4 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.3.1](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.3.1), 1 week ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.8](https://github.com/Sylius/Sylius/releases/tag/v1.12.8), 1 week ago) - Open Source eCommerce Framework on Symfony
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.0](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.0), 3 weeks ago) - A PHP client for DogStatsd
