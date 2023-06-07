@@ -10,19 +10,19 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/bcs](https://github.com/Ferror/bcs) -  (today)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (1 day ago)
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) -  (2 weeks ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (2 months ago)
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app (3 months ago)
-- [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework (3 months ago)
 
 #### 🌱 My latest projects
 
+- [Ferror/bcs](https://github.com/Ferror/bcs) - 
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - 
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app
 - [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework
 - [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP
-- [Ferror/dx-notifier](https://github.com/Ferror/dx-notifier) - To define a way to simply notify group of people about PHP &amp; Symfony version releases
 
 #### 🔭 Latest releases I've contributed to
 
