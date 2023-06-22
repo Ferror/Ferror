@@ -10,10 +10,10 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) -  (today)
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (4 days ago)
 - [Ferror/bcs](https://github.com/Ferror/bcs) -  (2 weeks ago)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (2 weeks ago)
-- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) -  (1 month ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (3 months ago)
 
 #### 🌱 My latest projects
