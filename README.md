@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) -  (1 day ago)
+- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) -  (today)
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (5 days ago)
 - [Ferror/bcs](https://github.com/Ferror/bcs) -  (2 weeks ago)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (2 weeks ago)
