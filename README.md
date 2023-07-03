@@ -10,16 +10,16 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) -  (1 week ago)
+- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (1 week ago)
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (2 weeks ago)
-- [Ferror/bcs](https://github.com/Ferror/bcs) -  (3 weeks ago)
+- [Ferror/bcs](https://github.com/Ferror/bcs) - Bounded Context Example (3 weeks ago)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (3 weeks ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (3 months ago)
 
 #### 🌱 My latest projects
 
-- [Ferror/bcs](https://github.com/Ferror/bcs) - 
-- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - 
+- [Ferror/bcs](https://github.com/Ferror/bcs) - Bounded Context Example
+- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app
 - [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework
 - [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP
