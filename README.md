@@ -10,8 +10,8 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (today)
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (1 week ago)
-- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (2 weeks ago)
 - [Ferror/bcs](https://github.com/Ferror/bcs) - Bounded Context Example (3 weeks ago)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (4 weeks ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (3 months ago)
