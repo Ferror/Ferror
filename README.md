@@ -10,9 +10,9 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (2 days ago)
-- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (1 week ago)
-- [Ferror/bcs](https://github.com/Ferror/bcs) - Bounded Context Example (4 weeks ago)
+- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (3 days ago)
+- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (2 weeks ago)
+- [Ferror/bcs](https://github.com/Ferror/bcs) - Bounded Context Example (1 month ago)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (1 month ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (3 months ago)
 
@@ -27,8 +27,8 @@ What's gonna be next?
 #### 🔭 Latest releases I've contributed to
 
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.33.0](https://github.com/serverless/serverless/releases/tag/v3.33.0), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-- [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) ([v1.11.0-ALPHA.1](https://github.com/Sylius/SyliusResourceBundle/releases/tag/v1.11.0-ALPHA.1), 1 week ago) - Simpler CRUD for Symfony applications
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.8.6](https://github.com/asyncapi/modelina/releases/tag/v1.8.6), 2 weeks ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) ([v1.11.0-ALPHA.1](https://github.com/Sylius/SyliusResourceBundle/releases/tag/v1.11.0-ALPHA.1), 2 weeks ago) - Simpler CRUD for Symfony applications
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.8.6](https://github.com/asyncapi/modelina/releases/tag/v1.8.6), 3 weeks ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.3.1](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.3.1), 1 month ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.8](https://github.com/Sylius/Sylius/releases/tag/v1.12.8), 1 month ago) - Open Source eCommerce Framework on Symfony
 
