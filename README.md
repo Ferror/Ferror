@@ -11,7 +11,7 @@ What's gonna be next?
 #### 👷 Check out what I'm currently working on
 
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (2 weeks ago)
-- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (4 weeks ago)
+- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (1 month ago)
 - [Ferror/bcs](https://github.com/Ferror/bcs) - Bounded Context Example (1 month ago)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (1 month ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (4 months ago)
@@ -26,7 +26,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.9](https://github.com/Sylius/Sylius/releases/tag/v1.12.9), 1 day ago) - Open Source eCommerce Framework on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.9](https://github.com/Sylius/Sylius/releases/tag/v1.12.9), 2 days ago) - Open Source eCommerce Framework on Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v2.72.4](https://github.com/serverless/serverless/releases/tag/v2.72.4), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.8.6](https://github.com/asyncapi/modelina/releases/tag/v1.8.6), 1 month ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.3.1](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.3.1), 1 month ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
