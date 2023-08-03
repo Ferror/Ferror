@@ -10,9 +10,9 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (2 days ago)
-- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (4 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 weeks ago)
+- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (3 days ago)
+- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (1 month ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [Ferror/bcs](https://github.com/Ferror/bcs) - Bounded Context Example (1 month ago)
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (1 month ago)
 
@@ -26,7 +26,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 3 days ago) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.9](https://github.com/Sylius/Sylius/releases/tag/v1.12.9), 1 week ago) - Open Source eCommerce Framework on Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v2.72.4](https://github.com/serverless/serverless/releases/tag/v2.72.4), 3 weeks ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.8.6](https://github.com/asyncapi/modelina/releases/tag/v1.8.6), 1 month ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
