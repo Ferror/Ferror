@@ -10,11 +10,11 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (today)
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (2 weeks ago)
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [Ferror/bcs](https://github.com/Ferror/bcs) - Bounded Context Example (2 months ago)
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents. (2 months ago)
 
 #### 🌱 My latest projects
 
