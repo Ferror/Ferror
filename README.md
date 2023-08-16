@@ -11,7 +11,7 @@ What's gonna be next?
 #### 👷 Check out what I'm currently working on
 
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (today)
-- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (today)
+- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (1 month ago)
 - [Ferror/bcs](https://github.com/Ferror/bcs) - Bounded Context Example (2 months ago)
@@ -26,8 +26,8 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.8.11](https://github.com/asyncapi/modelina/releases/tag/v1.8.11), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.10](https://github.com/Sylius/Sylius/releases/tag/v1.12.10), 4 days ago) - Open Source eCommerce Framework on Symfony
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.8.11](https://github.com/asyncapi/modelina/releases/tag/v1.8.11), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.10](https://github.com/Sylius/Sylius/releases/tag/v1.12.10), 5 days ago) - Open Source eCommerce Framework on Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.34.0](https://github.com/serverless/serverless/releases/tag/v3.34.0), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 2 weeks ago) - The Symfony PHP framework
 - [FriendsOfSymfony/FOSElasticaBundle](https://github.com/FriendsOfSymfony/FOSElasticaBundle) ([v6.3.1](https://github.com/FriendsOfSymfony/FOSElasticaBundle/releases/tag/v6.3.1), 2 months ago) - Elasticsearch PHP integration for your Symfony project using Elastica.
