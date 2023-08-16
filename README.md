@@ -18,11 +18,11 @@ What's gonna be next?
 
 #### 🌱 My latest projects
 
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - 
 - [Ferror/bcs](https://github.com/Ferror/bcs) - Bounded Context Example
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap
 - [Ferror/asyncapi-component-react-usage](https://github.com/Ferror/asyncapi-component-react-usage) - Example of Async API component usage in standard react app
 - [Ferror/asyncapi-component-vite](https://github.com/Ferror/asyncapi-component-vite) - To show that AsyncAPI component does not work with Vite framework
-- [Ferror/poc-serverless-framework](https://github.com/Ferror/poc-serverless-framework) - PoC of Serverless Framework. Writing functions in PHP
 
 #### 🔭 Latest releases I've contributed to
 
