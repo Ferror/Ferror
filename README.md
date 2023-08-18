@@ -11,9 +11,9 @@ What's gonna be next?
 #### 👷 Check out what I'm currently working on
 
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) -  (today)
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog Tracing PHP Client (today)
-- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (1 day ago)
-- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (2 days ago)
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog Tracing PHP Client (1 day ago)
+- [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (2 days ago)
+- [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (3 days ago)
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (1 month ago)
 
 #### 🌱 My latest projects
@@ -26,8 +26,8 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.8.11](https://github.com/asyncapi/modelina/releases/tag/v1.8.11), 2 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.10](https://github.com/Sylius/Sylius/releases/tag/v1.12.10), 6 days ago) - Open Source eCommerce Framework on Symfony
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v1.8.11](https://github.com/asyncapi/modelina/releases/tag/v1.8.11), 3 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.10](https://github.com/Sylius/Sylius/releases/tag/v1.12.10), 1 week ago) - Open Source eCommerce Framework on Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.34.0](https://github.com/serverless/serverless/releases/tag/v3.34.0), 2 weeks ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 2 weeks ago) - The Symfony PHP framework
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.90.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.90.0), 1 month ago) - Datadog Tracing PHP Client
