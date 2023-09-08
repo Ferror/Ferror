@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.91.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.91.0), 2 days ago) - Datadog Tracing PHP Client
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.91.1](https://github.com/DataDog/dd-trace-php/releases/tag/0.91.1), today) - Datadog Tracing PHP Client
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.20](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.20), 3 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.4](https://github.com/symfony/symfony/releases/tag/v6.3.4), 1 week ago) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.10](https://github.com/Sylius/Sylius/releases/tag/v1.12.10), 4 weeks ago) - Open Source eCommerce Framework on Symfony
