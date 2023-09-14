@@ -27,8 +27,8 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.91.2](https://github.com/DataDog/dd-trace-php/releases/tag/0.91.2), today) - Datadog Tracing PHP Client
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.23](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.23), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.91.1](https://github.com/DataDog/dd-trace-php/releases/tag/0.91.1), 6 days ago) - Datadog Tracing PHP Client
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.4](https://github.com/symfony/symfony/releases/tag/v6.3.4), 2 weeks ago) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.10](https://github.com/Sylius/Sylius/releases/tag/v1.12.10), 1 month ago) - Open Source eCommerce Framework on Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.34.0](https://github.com/serverless/serverless/releases/tag/v3.34.0), 1 month ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
