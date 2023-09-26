@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.5](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.5), 4 days ago) - Open Source eCommerce Application on top of Symfony
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.5](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.5), 5 days ago) - Open Source eCommerce Application on top of Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.11](https://github.com/Sylius/Sylius/releases/tag/v1.12.11), 1 week ago) - Open Source eCommerce Framework on Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.35.2](https://github.com/serverless/serverless/releases/tag/v3.35.2), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.91.2](https://github.com/DataDog/dd-trace-php/releases/tag/0.91.2), 1 week ago) - Datadog Tracing PHP Client
