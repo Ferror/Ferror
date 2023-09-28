@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) -  (2 weeks ago)
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) -  (3 weeks ago)
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog Tracing PHP Client (1 month ago)
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (1 month ago)
 - [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (1 month ago)
@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.92.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.92.0), 1 day ago) - Datadog Tracing PHP Client
-- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.5](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.5), 6 days ago) - Open Source eCommerce Application on top of Symfony
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.92.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.92.0), 2 days ago) - Datadog Tracing PHP Client
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.5](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.5), 1 week ago) - Open Source eCommerce Application on top of Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.11](https://github.com/Sylius/Sylius/releases/tag/v1.12.11), 1 week ago) - Open Source eCommerce Framework on Symfony
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.35.2](https://github.com/serverless/serverless/releases/tag/v3.35.2), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.23](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.23), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.23](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.23), 2 weeks ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 
 >
 > Psst! Some of my contributions are super secret 😅
