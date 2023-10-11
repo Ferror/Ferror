@@ -10,12 +10,12 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (today)
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) -  (1 month ago)
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog Tracing PHP Client (1 month ago)
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (1 month ago)
 - [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
-- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.14.0](https://github.com/asyncapi/generator/releases/tag/v1.14.0), today) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.24](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.24), 2 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.92.2](https://github.com/DataDog/dd-trace-php/releases/tag/0.92.2), 5 days ago) - Datadog Tracing PHP Client
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.5](https://github.com/symfony/symfony/releases/tag/v6.3.5), 1 week ago) - The Symfony PHP framework
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.5](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.5), 2 weeks ago) - Open Source eCommerce Application on top of Symfony
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.11](https://github.com/Sylius/Sylius/releases/tag/v1.12.11), 3 weeks ago) - Open Source eCommerce Framework on Symfony
 
 >
 > Psst! Some of my contributions are super secret 😅
