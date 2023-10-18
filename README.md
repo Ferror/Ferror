@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (6 days ago)
+- [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (1 week ago)
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) -  (1 month ago)
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog Tracing PHP Client (2 months ago)
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (2 months ago)
@@ -27,8 +27,8 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.25](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.25), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.14.0](https://github.com/asyncapi/generator/releases/tag/v1.14.0), 6 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.0-next.25](https://github.com/asyncapi/modelina/releases/tag/v2.0.0-next.25), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.14.0](https://github.com/asyncapi/generator/releases/tag/v1.14.0), 1 week ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.92.2](https://github.com/DataDog/dd-trace-php/releases/tag/0.92.2), 1 week ago) - Datadog Tracing PHP Client
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.5](https://github.com/symfony/symfony/releases/tag/v6.3.5), 2 weeks ago) - The Symfony PHP framework
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.5](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.5), 3 weeks ago) - Open Source eCommerce Application on top of Symfony
