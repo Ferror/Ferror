@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.36.0](https://github.com/serverless/serverless/releases/tag/v3.36.0), today) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA1), 2 days ago) - The Symfony PHP framework
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.1](https://github.com/asyncapi/modelina/releases/tag/v2.0.1), 3 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.14.1](https://github.com/asyncapi/generator/releases/tag/v1.14.1), 3 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.92.2](https://github.com/DataDog/dd-trace-php/releases/tag/0.92.2), 2 weeks ago) - Datadog Tracing PHP Client
-- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) ([v1.12.5](https://github.com/Sylius/Sylius-Standard/releases/tag/v1.12.5), 1 month ago) - Open Source eCommerce Application on top of Symfony
 
 >
 > Psst! Some of my contributions are super secret 😅
