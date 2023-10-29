@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (3 days ago)
+- [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (4 days ago)
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (2 weeks ago)
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (1 month ago)
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog Tracing PHP Client (2 months ago)
@@ -27,8 +27,8 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [serverless/serverless](https://github.com/serverless/serverless) ([v3.36.0](https://github.com/serverless/serverless/releases/tag/v3.36.0), 5 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA1), 1 week ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.30](https://github.com/symfony/symfony/releases/tag/v5.4.30), today) - The Symfony PHP framework
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.36.0](https://github.com/serverless/serverless/releases/tag/v3.36.0), 6 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.1](https://github.com/asyncapi/modelina/releases/tag/v2.0.1), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.14.1](https://github.com/asyncapi/generator/releases/tag/v1.14.1), 1 week ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.92.2](https://github.com/DataDog/dd-trace-php/releases/tag/0.92.2), 3 weeks ago) - Datadog Tracing PHP Client
