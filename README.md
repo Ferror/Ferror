@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.30](https://github.com/symfony/symfony/releases/tag/v5.4.30), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.4.0-BETA2), today) - The Symfony PHP framework
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.36.0](https://github.com/serverless/serverless/releases/tag/v3.36.0), 6 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.1](https://github.com/asyncapi/modelina/releases/tag/v2.0.1), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.14.1](https://github.com/asyncapi/generator/releases/tag/v1.14.1), 1 week ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
