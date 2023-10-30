@@ -10,9 +10,9 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (today)
 - [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (5 days ago)
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (2 weeks ago)
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (1 month ago)
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog Tracing PHP Client (2 months ago)
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (2 months ago)
 - [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (2 months ago)
