@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.93.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.93.0), today) - Datadog Tracing PHP Client
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA2), 1 day ago) - The Symfony PHP framework
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.36.0](https://github.com/serverless/serverless/releases/tag/v3.36.0), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.1](https://github.com/asyncapi/modelina/releases/tag/v2.0.1), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.14.1](https://github.com/asyncapi/generator/releases/tag/v1.14.1), 1 week ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.92.2](https://github.com/DataDog/dd-trace-php/releases/tag/0.92.2), 3 weeks ago) - Datadog Tracing PHP Client
 
 >
 > Psst! Some of my contributions are super secret 😅
