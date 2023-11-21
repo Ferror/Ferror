@@ -13,7 +13,7 @@ What's gonna be next?
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (today)
 - [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (3 weeks ago)
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (1 month ago)
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog Tracing PHP Client (3 months ago)
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog PHP Clients (3 months ago)
 - [Ferror/backend-service-state-map](https://github.com/Ferror/backend-service-state-map) - Presenting Service Information as a Heatmap (3 months ago)
 - [Ferror/warehouse](https://github.com/Ferror/warehouse) - Event Sourcing in the Warehouse Domain (3 months ago)
 
@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.94.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.94.0), today) - Datadog Tracing PHP Client
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.94.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.94.0), today) - Datadog PHP Clients
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.0.0-next.5](https://github.com/asyncapi/modelina/releases/tag/v3.0.0-next.5), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.15.0](https://github.com/asyncapi/generator/releases/tag/v1.15.0), 1 day ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.12](https://github.com/Sylius/Sylius/releases/tag/v1.12.12), 4 days ago) - Open Source eCommerce Framework on Symfony
