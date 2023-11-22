@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.38.0](https://github.com/serverless/serverless/releases/tag/v3.38.0), today) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.0.0-next.6](https://github.com/asyncapi/modelina/releases/tag/v3.0.0-next.6), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.94.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.94.0), 1 day ago) - Datadog PHP Clients
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.15.0](https://github.com/asyncapi/generator/releases/tag/v1.15.0), 2 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.12](https://github.com/Sylius/Sylius/releases/tag/v1.12.12), 5 days ago) - Open Source eCommerce Framework on Symfony
-- [serverless/serverless](https://github.com/serverless/serverless) ([v3.37.0](https://github.com/serverless/serverless/releases/tag/v3.37.0), 6 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 
 >
 > Psst! Some of my contributions are super secret 😅
