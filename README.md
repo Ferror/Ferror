@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (1 day ago)
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (2 days ago)
 - [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (1 month ago)
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (1 month ago)
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog PHP Clients (3 months ago)
@@ -27,10 +27,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2), 1 day ago) - The Symfony PHP framework
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.0.0-next.7](https://github.com/asyncapi/modelina/releases/tag/v3.0.0-next.7), 5 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [serverless/serverless](https://github.com/serverless/serverless) ([v3.38.0](https://github.com/serverless/serverless/releases/tag/v3.38.0), 5 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.94.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.94.0), 6 days ago) - Datadog PHP Clients
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2), 2 days ago) - The Symfony PHP framework
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.0.0-next.7](https://github.com/asyncapi/modelina/releases/tag/v3.0.0-next.7), 6 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [serverless/serverless](https://github.com/serverless/serverless) ([v3.38.0](https://github.com/serverless/serverless/releases/tag/v3.38.0), 6 days ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.94.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.94.0), 1 week ago) - Datadog PHP Clients
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.15.0](https://github.com/asyncapi/generator/releases/tag/v1.15.0), 1 week ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 
 >
