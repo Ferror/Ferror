@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.15.1](https://github.com/asyncapi/generator/releases/tag/v1.15.1), today) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.0](https://github.com/symfony/symfony/releases/tag/v7.0.0), today) - The Symfony PHP framework
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.94.1](https://github.com/DataDog/dd-trace-php/releases/tag/0.94.1), today) - Datadog PHP Clients
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.0.0-next.7](https://github.com/asyncapi/modelina/releases/tag/v3.0.0-next.7), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.38.0](https://github.com/serverless/serverless/releases/tag/v3.38.0), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.15.0](https://github.com/asyncapi/generator/releases/tag/v1.15.0), 1 week ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 
 >
 > Psst! Some of my contributions are super secret 😅
