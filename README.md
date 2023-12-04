@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.15.3](https://github.com/asyncapi/generator/releases/tag/v1.15.3), 3 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.15.4](https://github.com/asyncapi/generator/releases/tag/v1.15.4), today) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.6](https://github.com/asyncapi/modelina/releases/tag/v2.0.6), 3 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 3 days ago) - The Symfony PHP framework
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.94.1](https://github.com/DataDog/dd-trace-php/releases/tag/0.94.1), 5 days ago) - Datadog PHP Clients
