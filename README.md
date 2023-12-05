@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.12.13](https://github.com/Sylius/Sylius/releases/tag/v1.12.13), today) - Open Source eCommerce Framework on Symfony
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.15.5](https://github.com/asyncapi/generator/releases/tag/v1.15.5), 1 day ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.7](https://github.com/asyncapi/modelina/releases/tag/v2.0.7), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 4 days ago) - The Symfony PHP framework
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.94.1](https://github.com/DataDog/dd-trace-php/releases/tag/0.94.1), 6 days ago) - Datadog PHP Clients
-- [serverless/serverless](https://github.com/serverless/serverless) ([v3.38.0](https://github.com/serverless/serverless/releases/tag/v3.38.0), 1 week ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 
 >
 > Psst! Some of my contributions are super secret 😅
