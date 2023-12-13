@@ -27,8 +27,8 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.11](https://github.com/asyncapi/modelina/releases/tag/v2.0.11), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.15.8](https://github.com/asyncapi/generator/releases/tag/v1.15.8), today) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.15.9](https://github.com/asyncapi/generator/releases/tag/v1.15.9), today) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.0.13](https://github.com/asyncapi/modelina/releases/tag/v2.0.13), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.95.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.95.0), 6 days ago) - Datadog PHP Clients
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1), 1 week ago) - The Symfony PHP framework
 - [serverless/serverless](https://github.com/serverless/serverless) ([v3.38.0](https://github.com/serverless/serverless/releases/tag/v3.38.0), 3 weeks ago) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
