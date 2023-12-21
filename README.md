@@ -10,12 +10,12 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) - Symfony Command that calculates Open API documentation doverage (today)
 - [asyncapi/cli](https://github.com/asyncapi/cli) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed! (3 days ago)
 - [Ferror/asyncapi-java-doc-bundle](https://github.com/Ferror/asyncapi-java-doc-bundle) - Document Async API with Java Annotations (1 week ago)
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (3 weeks ago)
 - [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (1 month ago)
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (2 months ago)
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) - Datadog PHP Clients (4 months ago)
 
 #### 🌱 My latest projects
 
