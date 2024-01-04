@@ -27,8 +27,8 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.2.32](https://github.com/asyncapi/cli/releases/tag/v1.2.32), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.16.0](https://github.com/asyncapi/generator/releases/tag/v1.16.0), today) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.2.31](https://github.com/asyncapi/cli/releases/tag/v1.2.31), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) ([0.1.0-beta](https://github.com/Ferror/openapi-coverage/releases/tag/0.1.0-beta), 1 day ago) - Symfony Command that calculates Open API documentation coverage
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 5 days ago) - The Symfony PHP framework
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.1.1](https://github.com/asyncapi/modelina/releases/tag/v2.1.1), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
