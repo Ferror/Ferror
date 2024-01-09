@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.2.33](https://github.com/asyncapi/cli/releases/tag/v1.2.33), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.2.34](https://github.com/asyncapi/cli/releases/tag/v1.2.34), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha), 2 days ago) - Document Async API with PHP Attributes
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.16.0](https://github.com/asyncapi/generator/releases/tag/v1.16.0), 5 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) ([0.1.0-beta](https://github.com/Ferror/openapi-coverage/releases/tag/0.1.0-beta), 6 days ago) - Symfony Command that calculates Open API documentation coverage
