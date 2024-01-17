@@ -10,10 +10,10 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (today)
-- [Ferror/asyncapi-java-doc-bundle](https://github.com/Ferror/asyncapi-java-doc-bundle) - Document Async API with Java Annotations (2 days ago)
-- [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) - Symfony Command that calculates Open API documentation coverage (1 week ago)
-- [asyncapi/cli](https://github.com/asyncapi/cli) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed! (4 weeks ago)
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (1 day ago)
+- [Ferror/asyncapi-java-doc-bundle](https://github.com/Ferror/asyncapi-java-doc-bundle) - Document Async API with Java Annotations (3 days ago)
+- [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) - Symfony Command that calculates Open API documentation coverage (2 weeks ago)
+- [asyncapi/cli](https://github.com/asyncapi/cli) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed! (1 month ago)
 - [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (2 months ago)
 - [asyncapi/generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything! (3 months ago)
 
@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.0.0-next.13](https://github.com/asyncapi/modelina/releases/tag/v3.0.0-next.13), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.3.0](https://github.com/asyncapi/cli/releases/tag/v1.3.0), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.1](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.1), 4 days ago) - Document Async API with PHP Attributes
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.0.0-next.13](https://github.com/asyncapi/modelina/releases/tag/v3.0.0-next.13), 2 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.3.0](https://github.com/asyncapi/cli/releases/tag/v1.3.0), 2 days ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.1](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.1), 5 days ago) - Document Async API with PHP Attributes
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.16.0](https://github.com/asyncapi/generator/releases/tag/v1.16.0), 1 week ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) ([0.1.0-beta](https://github.com/Ferror/openapi-coverage/releases/tag/0.1.0-beta), 1 week ago) - Symfony Command that calculates Open API documentation coverage
+- [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) ([0.1.0-beta](https://github.com/Ferror/openapi-coverage/releases/tag/0.1.0-beta), 2 weeks ago) - Symfony Command that calculates Open API documentation coverage
 
 >
 > Psst! Some of my contributions are super secret 😅
