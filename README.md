@@ -10,12 +10,12 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/asyncapi-java-doc-bundle](https://github.com/Ferror/asyncapi-java-doc-bundle) - Document Async API with Java Annotations (3 days ago)
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (3 days ago)
-- [Ferror/asyncapi-java-doc-bundle-demo](https://github.com/Ferror/asyncapi-java-doc-bundle-demo) - [WIP] (3 days ago)
+- [Ferror/asyncapi-java-doc-bundle](https://github.com/Ferror/asyncapi-java-doc-bundle) - Document Async API with Java Annotations (4 days ago)
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (4 days ago)
+- [Ferror/asyncapi-java-doc-bundle-demo](https://github.com/Ferror/asyncapi-java-doc-bundle-demo) - [WIP] (4 days ago)
 - [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) - Symfony Command that calculates Open API documentation coverage (2 weeks ago)
 - [asyncapi/cli](https://github.com/asyncapi/cli) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed! (1 month ago)
-- [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (2 months ago)
+- [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,10 +27,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.3.3](https://github.com/asyncapi/cli/releases/tag/v1.3.3), 4 days ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.97.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.97.0), 4 days ago) - Datadog PHP Clients
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.0](https://github.com/asyncapi/generator/releases/tag/v1.17.0), 4 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.2](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.2), 5 days ago) - Document Async API with PHP Attributes
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.3.3](https://github.com/asyncapi/cli/releases/tag/v1.3.3), 5 days ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.97.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.97.0), 5 days ago) - Datadog PHP Clients
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.0](https://github.com/asyncapi/generator/releases/tag/v1.17.0), 5 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.2](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.2), 6 days ago) - Document Async API with PHP Attributes
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.0.0-next.13](https://github.com/asyncapi/modelina/releases/tag/v3.0.0-next.13), 1 week ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 
 >
