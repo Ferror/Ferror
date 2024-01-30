@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.4.8](https://github.com/asyncapi/cli/releases/tag/v1.4.8), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.4.10](https://github.com/asyncapi/cli/releases/tag/v1.4.10), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v2.1.3](https://github.com/asyncapi/modelina/releases/tag/v2.1.3), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.4](https://github.com/asyncapi/generator/releases/tag/v1.17.4), today) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.6](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.6), 1 day ago) - Document Async API with PHP Attributes
