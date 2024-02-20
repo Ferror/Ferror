@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.98.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.98.0), today) - Datadog PHP Clients
 - [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.5.10](https://github.com/asyncapi/cli/releases/tag/v1.5.10), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.3.2](https://github.com/asyncapi/modelina/releases/tag/v3.3.2), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.6](https://github.com/asyncapi/generator/releases/tag/v1.17.6), 4 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.7](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.7), 2 weeks ago) - Document Async API with PHP Attributes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3), 2 weeks ago) - The Symfony PHP framework
 
 >
 > Psst! Some of my contributions are super secret 😅
