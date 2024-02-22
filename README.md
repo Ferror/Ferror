@@ -15,7 +15,7 @@ What's gonna be next?
 - [Ferror/asyncapi-java-doc-bundle-demo](https://github.com/Ferror/asyncapi-java-doc-bundle-demo) - [WIP] (1 month ago)
 - [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) - Symfony Command that calculates Open API documentation coverage (1 month ago)
 - [asyncapi/cli](https://github.com/asyncapi/cli) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed! (2 months ago)
-- [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (3 months ago)
+- [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,10 +27,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.5.14](https://github.com/asyncapi/cli/releases/tag/v1.5.14), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.7](https://github.com/asyncapi/generator/releases/tag/v1.17.7), today) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.3.4](https://github.com/asyncapi/modelina/releases/tag/v3.3.4), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.98.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.98.0), 1 day ago) - Datadog PHP Clients
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.5.14](https://github.com/asyncapi/cli/releases/tag/v1.5.14), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.7](https://github.com/asyncapi/generator/releases/tag/v1.17.7), 1 day ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.3.4](https://github.com/asyncapi/modelina/releases/tag/v3.3.4), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.98.0](https://github.com/DataDog/dd-trace-php/releases/tag/0.98.0), 2 days ago) - Datadog PHP Clients
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.7](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.7), 2 weeks ago) - Document Async API with PHP Attributes
 
 >
