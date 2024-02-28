@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.5.16](https://github.com/asyncapi/cli/releases/tag/v1.5.16), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v4.0.0-next.6](https://github.com/asyncapi/modelina/releases/tag/v4.0.0-next.6), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4), today) - The Symfony PHP framework
-- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.1](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.1), 4 days ago) - A PHP client for DogStatsd
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.7](https://github.com/asyncapi/generator/releases/tag/v1.17.7), 6 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.5.16](https://github.com/asyncapi/cli/releases/tag/v1.5.16), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v4.0.0-next.6](https://github.com/asyncapi/modelina/releases/tag/v4.0.0-next.6), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4), 1 day ago) - The Symfony PHP framework
+- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.1](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.1), 5 days ago) - A PHP client for DogStatsd
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.7](https://github.com/asyncapi/generator/releases/tag/v1.17.7), 1 week ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 
 >
 > Psst! Some of my contributions are super secret 😅
