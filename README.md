@@ -27,10 +27,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.6.0](https://github.com/asyncapi/cli/releases/tag/v1.6.0), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v4.0.0-next.10](https://github.com/asyncapi/modelina/releases/tag/v4.0.0-next.10), today) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 2 days ago) - The Symfony PHP framework
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.98.1](https://github.com/DataDog/dd-trace-php/releases/tag/0.98.1), 2 days ago) - Datadog PHP Clients
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.6.0](https://github.com/asyncapi/cli/releases/tag/v1.6.0), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v4.0.0-next.10](https://github.com/asyncapi/modelina/releases/tag/v4.0.0-next.10), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 3 days ago) - The Symfony PHP framework
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.98.1](https://github.com/DataDog/dd-trace-php/releases/tag/0.98.1), 3 days ago) - Datadog PHP Clients
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.1](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.1), 1 week ago) - A PHP client for DogStatsd
 
 >
