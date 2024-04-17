@@ -27,11 +27,11 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.8.3](https://github.com/asyncapi/cli/releases/tag/v1.8.3), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.22](https://github.com/asyncapi/generator/releases/tag/v1.17.22), 1 day ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.4.7](https://github.com/asyncapi/modelina/releases/tag/v3.4.7), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents with high customization
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.8.3](https://github.com/asyncapi/cli/releases/tag/v1.8.3), 2 days ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.22](https://github.com/asyncapi/generator/releases/tag/v1.17.22), 2 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.4.7](https://github.com/asyncapi/modelina/releases/tag/v3.4.7), 2 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents with high customization
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([0.99.1](https://github.com/DataDog/dd-trace-php/releases/tag/0.99.1), 1 week ago) - Datadog PHP Clients
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 1 week ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 2 weeks ago) - The Symfony PHP framework
 
 >
 > Psst! Some of my contributions are super secret 😅
