@@ -27,10 +27,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.25](https://github.com/asyncapi/generator/releases/tag/v1.17.25), 1 day ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.4.8](https://github.com/asyncapi/modelina/releases/tag/v3.4.8), 1 day ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents with high customization
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.8.4](https://github.com/asyncapi/cli/releases/tag/v1.8.4), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([1.0.0beta1](https://github.com/DataDog/dd-trace-php/releases/tag/1.0.0beta1), 2 days ago) - Datadog PHP Clients
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v1.17.25](https://github.com/asyncapi/generator/releases/tag/v1.17.25), 2 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.4.8](https://github.com/asyncapi/modelina/releases/tag/v3.4.8), 2 days ago) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents with high customization
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.8.4](https://github.com/asyncapi/cli/releases/tag/v1.8.4), 2 days ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([1.0.0beta1](https://github.com/DataDog/dd-trace-php/releases/tag/1.0.0beta1), 3 days ago) - Datadog PHP Clients
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 2 weeks ago) - The Symfony PHP framework
 
 >
