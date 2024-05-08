@@ -27,10 +27,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v2.0.1](https://github.com/asyncapi/generator/releases/tag/v2.0.1), 1 day ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.12.0](https://github.com/asyncapi/cli/releases/tag/v1.12.0), 4 days ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 5 days ago) - The Symfony PHP framework
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([1.0.0beta1](https://github.com/DataDog/dd-trace-php/releases/tag/1.0.0beta1), 2 weeks ago) - Datadog PHP Clients
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v2.0.1](https://github.com/asyncapi/generator/releases/tag/v2.0.1), 2 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.12.0](https://github.com/asyncapi/cli/releases/tag/v1.12.0), 5 days ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 6 days ago) - The Symfony PHP framework
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([1.0.0beta1](https://github.com/DataDog/dd-trace-php/releases/tag/1.0.0beta1), 3 weeks ago) - Datadog PHP Clients
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.7](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.7), 3 months ago) - Document Async API with PHP Attributes
 
 >
