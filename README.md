@@ -14,7 +14,7 @@ What's gonna be next?
 - [Ferror/asyncapi-java-doc-bundle](https://github.com/Ferror/asyncapi-java-doc-bundle) - Document Async API with Java Annotations (3 months ago)
 - [Ferror/asyncapi-java-doc-bundle-demo](https://github.com/Ferror/asyncapi-java-doc-bundle-demo) - [WIP] (3 months ago)
 - [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) - Symfony Command that calculates Open API documentation coverage (4 months ago)
-- [asyncapi/cli](https://github.com/asyncapi/cli) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed! (4 months ago)
+- [asyncapi/cli](https://github.com/asyncapi/cli) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed! (5 months ago)
 - [Ferror/asyncapi-event-catalog](https://github.com/Ferror/asyncapi-event-catalog) - Event Catalog generated from Async API (6 months ago)
 
 #### 🌱 My latest projects
@@ -27,10 +27,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.14.0](https://github.com/asyncapi/cli/releases/tag/v1.14.0), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.5.0](https://github.com/asyncapi/modelina/releases/tag/v3.5.0), 2 days ago) - A library for generating typed models based on inputs such as AsyncAPI, OpenAPI, and JSON Schema documents with high customization
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.14.0](https://github.com/asyncapi/cli/releases/tag/v1.14.0), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v3.5.0](https://github.com/asyncapi/modelina/releases/tag/v3.5.0), 3 days ago) - A library for generating typed models based on inputs such as AsyncAPI, OpenAPI, and JSON Schema documents with high customization
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v2.0.1](https://github.com/asyncapi/generator/releases/tag/v2.0.1), 1 week ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 1 week ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 2 weeks ago) - The Symfony PHP framework
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([1.0.0beta1](https://github.com/DataDog/dd-trace-php/releases/tag/1.0.0beta1), 4 weeks ago) - Datadog PHP Clients
 
 >
