@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v4.0.0-next.46](https://github.com/asyncapi/modelina/releases/tag/v4.0.0-next.46), today) - A library for generating typed models based on inputs such as AsyncAPI, OpenAPI, and JSON Schema documents with high customization
+- [asyncapi/modelina](https://github.com/asyncapi/modelina) ([v4.0.0-next.47](https://github.com/asyncapi/modelina/releases/tag/v4.0.0-next.47), today) - A library for generating typed models based on inputs such as AsyncAPI, OpenAPI, and JSON Schema documents with high customization
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.8](https://github.com/symfony/symfony/releases/tag/v7.0.8), 1 day ago) - The Symfony PHP framework
 - [asyncapi/cli](https://github.com/asyncapi/cli) ([v1.15.4](https://github.com/asyncapi/cli/releases/tag/v1.15.4), 1 week ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v2.0.1](https://github.com/asyncapi/generator/releases/tag/v2.0.1), 4 weeks ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
