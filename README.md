@@ -27,10 +27,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.0.0](https://github.com/asyncapi/cli/releases/tag/v2.0.0), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([v2.0.3](https://github.com/asyncapi/generator/releases/tag/v2.0.3), 2 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([1.0.0](https://github.com/DataDog/dd-trace-php/releases/tag/1.0.0), 3 days ago) - Datadog PHP Clients
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 3 days ago) - The Symfony PHP framework
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.0.0](https://github.com/asyncapi/cli/releases/tag/v2.0.0), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([v2.0.3](https://github.com/asyncapi/generator/releases/tag/v2.0.3), 3 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([1.0.0](https://github.com/DataDog/dd-trace-php/releases/tag/1.0.0), 4 days ago) - Datadog PHP Clients
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 4 days ago) - The Symfony PHP framework
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.7](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.7), 4 months ago) - Document Async API with PHP Attributes
 
 >
