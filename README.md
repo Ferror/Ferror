@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.0.1](https://github.com/asyncapi/cli/releases/tag/v2.0.1), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.0.2](https://github.com/asyncapi/cli/releases/tag/v2.0.2), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([1.1.0](https://github.com/DataDog/dd-trace-php/releases/tag/1.1.0), 1 day ago) - Datadog PHP Clients
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([v2.0.3](https://github.com/asyncapi/generator/releases/tag/v2.0.3), 6 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 1 week ago) - The Symfony PHP framework
