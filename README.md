@@ -10,8 +10,8 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (3 days ago)
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (5 months ago)
+- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (4 days ago)
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (6 months ago)
 - [Ferror/asyncapi-java-doc-bundle](https://github.com/Ferror/asyncapi-java-doc-bundle) - Document Async API with Java Annotations (6 months ago)
 - [Ferror/asyncapi-java-doc-bundle-demo](https://github.com/Ferror/asyncapi-java-doc-bundle-demo) - [WIP] (6 months ago)
 - [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) - Symfony Command that calculates Open API documentation coverage (7 months ago)
@@ -27,9 +27,9 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([@asyncapi/generator@2.3.0](https://github.com/asyncapi/generator/releases/tag/%40asyncapi/generator%402.3.0), today) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.3.0](https://github.com/asyncapi/cli/releases/tag/v2.3.0), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 5 days ago) - The Symfony PHP framework
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([@asyncapi/generator@2.3.0](https://github.com/asyncapi/generator/releases/tag/%40asyncapi/generator%402.3.0), 1 day ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.3.0](https://github.com/asyncapi/cli/releases/tag/v2.3.0), 1 day ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 6 days ago) - The Symfony PHP framework
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([1.2.0](https://github.com/DataDog/dd-trace-php/releases/tag/1.2.0), 1 week ago) - Datadog PHP Clients
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.2](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.2), 2 weeks ago) - A PHP client for DogStatsd
 
