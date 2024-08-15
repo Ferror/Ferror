@@ -27,10 +27,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.3.2](https://github.com/asyncapi/cli/releases/tag/v2.3.2), 6 days ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.3.2](https://github.com/asyncapi/cli/releases/tag/v2.3.2), 1 week ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [asyncapi/generator](https://github.com/asyncapi/generator) ([@asyncapi/generator@2.3.0](https://github.com/asyncapi/generator/releases/tag/%40asyncapi/generator%402.3.0), 2 weeks ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) ([1.2.0](https://github.com/DataDog/dd-trace-php/releases/tag/1.2.0), 3 weeks ago) - Datadog PHP Clients
-- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.2](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.2), 4 weeks ago) - A PHP client for DogStatsd
+- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.2](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.2), 1 month ago) - A PHP client for DogStatsd
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.7](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.7), 6 months ago) - Document Async API with PHP Attributes
 
 >
