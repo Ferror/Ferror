@@ -12,8 +12,8 @@ What's gonna be next?
 
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (2 weeks ago)
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (6 months ago)
-- [Ferror/asyncapi-java-doc-bundle](https://github.com/Ferror/asyncapi-java-doc-bundle) - Document Async API with Java Annotations (6 months ago)
-- [Ferror/asyncapi-java-doc-bundle-demo](https://github.com/Ferror/asyncapi-java-doc-bundle-demo) - [WIP] (6 months ago)
+- [Ferror/asyncapi-java-doc-bundle](https://github.com/Ferror/asyncapi-java-doc-bundle) - Document Async API with Java Annotations (7 months ago)
+- [Ferror/asyncapi-java-doc-bundle-demo](https://github.com/Ferror/asyncapi-java-doc-bundle-demo) - [WIP] (7 months ago)
 - [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) - Symfony Command that calculates Open API documentation coverage (7 months ago)
 - [asyncapi/cli](https://github.com/asyncapi/cli) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed! (8 months ago)
 
