@@ -11,7 +11,7 @@ What's gonna be next?
 #### 👷 Check out what I'm currently working on
 
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (1 month ago)
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (6 months ago)
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (7 months ago)
 - [Ferror/asyncapi-java-doc-bundle](https://github.com/Ferror/asyncapi-java-doc-bundle) - Document Async API with Java Annotations (7 months ago)
 - [Ferror/asyncapi-java-doc-bundle-demo](https://github.com/Ferror/asyncapi-java-doc-bundle-demo) - [WIP] (7 months ago)
 - [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) - Symfony Command that calculates Open API documentation coverage (8 months ago)
@@ -27,10 +27,10 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/generator](https://github.com/asyncapi/generator) ([@asyncapi/generator@2.4.1](https://github.com/asyncapi/generator/releases/tag/%40asyncapi/generator%402.4.1), 2 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+- [asyncapi/generator](https://github.com/asyncapi/generator) ([@asyncapi/generator@2.4.1](https://github.com/asyncapi/generator/releases/tag/%40asyncapi/generator%402.4.1), 3 days ago) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 - [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.3.2](https://github.com/asyncapi/cli/releases/tag/v2.3.2), 3 weeks ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.2](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.2), 1 month ago) - A PHP client for DogStatsd
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.7](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.7), 6 months ago) - Document Async API with PHP Attributes
+- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.7](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.7), 7 months ago) - Document Async API with PHP Attributes
 - [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) ([0.1.0-beta](https://github.com/Ferror/openapi-coverage/releases/tag/0.1.0-beta), 8 months ago) - Symfony Command that calculates Open API documentation coverage
 
 >
