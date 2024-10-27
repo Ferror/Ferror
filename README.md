@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.7.4](https://github.com/asyncapi/cli/releases/tag/v2.7.4), 3 days ago) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
+- [asyncapi/cli](https://github.com/asyncapi/cli) ([v2.8.0](https://github.com/asyncapi/cli/releases/tag/v2.8.0), today) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.2](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.2), 3 months ago) - A PHP client for DogStatsd
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.7](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.7), 8 months ago) - Document Async API with PHP Attributes
 - [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) ([0.1.0-beta](https://github.com/Ferror/openapi-coverage/releases/tag/0.1.0-beta), 9 months ago) - Symfony Command that calculates Open API documentation coverage
