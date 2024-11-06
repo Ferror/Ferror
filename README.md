@@ -10,20 +10,20 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/phpstan-ddtrace](https://github.com/Ferror/phpstan-ddtrace) - The phpstan STUBS for the datadog/dd-trace-php library, but more convinient (today)
 - [Ferror/asyncapi-coverage](https://github.com/Ferror/asyncapi-coverage) - [WIP] Help your team analyse missing asyncapi documentation (1 month ago)
 - [Ferror/php-codeowners](https://github.com/Ferror/php-codeowners) - [WIP] Define PHP class ownership based on GitHub Codeowners (1 month ago)
 - [Ferror/asyncapi-event-catalog-v2](https://github.com/Ferror/asyncapi-event-catalog-v2) - Event Catalog V2 Setup with Github Actions (1 month ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (3 months ago)
 - [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) - Document Async API with PHP Attributes (9 months ago)
-- [Ferror/asyncapi-java-doc-bundle-demo](https://github.com/Ferror/asyncapi-java-doc-bundle-demo) - [WIP] (9 months ago)
 
 #### 🌱 My latest projects
 
+- [Ferror/phpstan-ddtrace](https://github.com/Ferror/phpstan-ddtrace) - The phpstan STUBS for the datadog/dd-trace-php library, but more convinient
 - [Ferror/php-codeowners](https://github.com/Ferror/php-codeowners) - [WIP] Define PHP class ownership based on GitHub Codeowners
 - [Ferror/asyncapi-coverage](https://github.com/Ferror/asyncapi-coverage) - [WIP] Help your team analyse missing asyncapi documentation
 - [Ferror/asyncapi-event-catalog-v2](https://github.com/Ferror/asyncapi-event-catalog-v2) - Event Catalog V2 Setup with Github Actions
 - [Ferror/asyncapi-java-doc-bundle-demo](https://github.com/Ferror/asyncapi-java-doc-bundle-demo) - [WIP]
-- [Ferror/openapi-coverage](https://github.com/Ferror/openapi-coverage) - Symfony Command that calculates Open API documentation coverage
 
 #### 🔭 Latest releases I've contributed to
 
