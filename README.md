@@ -10,10 +10,10 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/phpstan-datadog-env](https://github.com/Ferror/phpstan-datadog-env) - Environment to reporduce phpstan datadog stubs (4 days ago)
+- [Ferror/phpstan-datadog-env](https://github.com/Ferror/phpstan-datadog-env) - Environment to reporduce phpstan datadog stubs (5 days ago)
 - [Ferror/phpstan-ddtrace](https://github.com/Ferror/phpstan-ddtrace) - The phpstan STUBS for the datadog/dd-trace-php library, but more convinient (2 months ago)
 - [Ferror/asyncapi-coverage](https://github.com/Ferror/asyncapi-coverage) - [WIP] Help your team analyse missing asyncapi documentation (3 months ago)
-- [Ferror/php-codeowners](https://github.com/Ferror/php-codeowners) - [WIP] Define PHP class ownership based on GitHub Codeowners (3 months ago)
+- [Ferror/php-codeowners](https://github.com/Ferror/php-codeowners) - [WIP] Define PHP class ownership based on GitHub Codeowners (4 months ago)
 - [Ferror/asyncapi-event-catalog-v2](https://github.com/Ferror/asyncapi-event-catalog-v2) - Event Catalog V2 Setup with Github Actions (4 months ago)
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) - A PHP client for DogStatsd (5 months ago)
 
