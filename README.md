@@ -28,7 +28,6 @@ What's gonna be next?
 #### 🔭 Latest releases I've contributed to
 
 - [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.2](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.2), 6 months ago) - A PHP client for DogStatsd
-- [Ferror/asyncapi-doc-bundle](https://github.com/Ferror/asyncapi-doc-bundle) ([0.1.0-alpha.7](https://github.com/Ferror/asyncapi-doc-bundle/releases/tag/0.1.0-alpha.7), 1 year ago) - Document Async API with PHP Attributes
 
 >
 > Psst! Some of my contributions are super secret 😅
