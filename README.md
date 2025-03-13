@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.2](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.2), 7 months ago) - A PHP client for DogStatsd
+- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.6.2](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.6.2), 8 months ago) - A PHP client for DogStatsd
 
 >
 > Psst! Some of my contributions are super secret 😅
