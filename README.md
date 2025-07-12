@@ -15,7 +15,7 @@ What's gonna be next?
 - [Ferror/phpstan-ddtrace](https://github.com/Ferror/phpstan-ddtrace) - The phpstan STUBS for the datadog/dd-trace-php library, but more convinient (8 months ago)
 - [Ferror/asyncapi-coverage](https://github.com/Ferror/asyncapi-coverage) - [WIP] Help your team analyse missing asyncapi documentation (9 months ago)
 - [Ferror/php-codeowners](https://github.com/Ferror/php-codeowners) - [WIP] Define PHP class ownership based on GitHub Codeowners (9 months ago)
-- [Ferror/asyncapi-event-catalog-v2](https://github.com/Ferror/asyncapi-event-catalog-v2) - Event Catalog V2 Setup with Github Actions (9 months ago)
+- [Ferror/asyncapi-event-catalog-v2](https://github.com/Ferror/asyncapi-event-catalog-v2) - Event Catalog V2 Setup with Github Actions (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.7.0](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.7.0), today) - A PHP client for DogStatsd
+- [DataDog/php-datadogstatsd](https://github.com/DataDog/php-datadogstatsd) ([1.7.0](https://github.com/DataDog/php-datadogstatsd/releases/tag/1.7.0), 1 day ago) - A PHP client for DogStatsd
 
 >
 > Psst! Some of my contributions are super secret 😅
