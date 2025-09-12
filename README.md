@@ -11,7 +11,7 @@ What's gonna be next?
 #### 👷 Check out what I'm currently working on
 
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (2 months ago)
-- [Ferror/phpstan-datadog-env](https://github.com/Ferror/phpstan-datadog-env) - Environment to reporduce phpstan datadog stubs (7 months ago)
+- [Ferror/phpstan-datadog-env](https://github.com/Ferror/phpstan-datadog-env) - Environment to reporduce phpstan datadog stubs (8 months ago)
 - [Ferror/phpstan-ddtrace](https://github.com/Ferror/phpstan-ddtrace) - The phpstan STUBS for the datadog/dd-trace-php library, but more convinient (10 months ago)
 - [Ferror/asyncapi-coverage](https://github.com/Ferror/asyncapi-coverage) - [WIP] Help your team analyse missing asyncapi documentation (11 months ago)
 - [Ferror/php-codeowners](https://github.com/Ferror/php-codeowners) - [WIP] Define PHP class ownership based on GitHub Codeowners (11 months ago)
