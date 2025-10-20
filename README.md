@@ -10,6 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (today)
 - [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website (6 days ago)
 - [microcks/.github](https://github.com/microcks/.github) - Location of all reusable community health files (1 week ago)
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (3 months ago)
