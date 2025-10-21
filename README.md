@@ -10,9 +10,9 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (today)
-- [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website (6 days ago)
-- [microcks/.github](https://github.com/microcks/.github) - Location of all reusable community health files (1 week ago)
+- [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (1 day ago)
+- [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website (1 week ago)
+- [microcks/.github](https://github.com/microcks/.github) - Location of all reusable community health files (2 weeks ago)
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (3 months ago)
 - [Ferror/phpstan-datadog-env](https://github.com/Ferror/phpstan-datadog-env) - Environment to reporduce phpstan datadog stubs (9 months ago)
 - [Ferror/phpstan-ddtrace](https://github.com/Ferror/phpstan-ddtrace) - The phpstan STUBS for the datadog/dd-trace-php library, but more convinient (11 months ago)
