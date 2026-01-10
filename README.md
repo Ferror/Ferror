@@ -15,7 +15,7 @@ What's gonna be next?
 - [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website (2 months ago)
 - [microcks/.github](https://github.com/microcks/.github) - Location of all reusable community health files (3 months ago)
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (6 months ago)
-- [Ferror/phpstan-datadog-env](https://github.com/Ferror/phpstan-datadog-env) - Environment to reporduce phpstan datadog stubs (11 months ago)
+- [Ferror/phpstan-datadog-env](https://github.com/Ferror/phpstan-datadog-env) - Environment to reporduce phpstan datadog stubs (1 year ago)
 
 #### 🌱 My latest projects
 
