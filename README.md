@@ -14,7 +14,7 @@ What's gonna be next?
 - [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (3 months ago)
 - [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website (3 months ago)
 - [microcks/.github](https://github.com/microcks/.github) - Location of all reusable community health files (3 months ago)
-- [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (6 months ago)
+- [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (7 months ago)
 
 #### 🌱 My latest projects
 
