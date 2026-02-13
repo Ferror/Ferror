@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/openpeon-murloc](https://github.com/Ferror/openpeon-murloc) - Murloc voice for Peon! (today)
+- [Ferror/openpeon-murloc](https://github.com/Ferror/openpeon-murloc) - Murloc voice for Peon! (1 day ago)
 - [asyncapi/community](https://github.com/asyncapi/community) - AsyncAPI community-related stuff. (3 months ago)
 - [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (3 months ago)
 - [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website (4 months ago)
@@ -27,7 +27,7 @@ What's gonna be next?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ferror/openpeon-murloc](https://github.com/Ferror/openpeon-murloc) ([v1.0.2](https://github.com/Ferror/openpeon-murloc/releases/tag/v1.0.2), today) - Murloc voice for Peon!
+- [Ferror/openpeon-murloc](https://github.com/Ferror/openpeon-murloc) ([v1.0.2](https://github.com/Ferror/openpeon-murloc/releases/tag/v1.0.2), 1 day ago) - Murloc voice for Peon!
 
 >
 > Psst! Some of my contributions are super secret 😅
