@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [asyncapi/community](https://github.com/asyncapi/community) - AsyncAPI community-related stuff. (4 months ago)
+- [asyncapi/community](https://github.com/asyncapi/community) - AsyncAPI community-related stuff. (5 months ago)
 - [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (5 months ago)
 - [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website (5 months ago)
 - [microcks/.github](https://github.com/microcks/.github) - Location of all reusable community health files (5 months ago)
