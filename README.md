@@ -10,6 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
+- [Ferror/asyncapi-webinar](https://github.com/Ferror/asyncapi-webinar) -  (today)
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (5 days ago)
 - [asyncapi/community](https://github.com/asyncapi/community) - AsyncAPI community-related stuff. (5 months ago)
 - [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (5 months ago)
@@ -18,11 +19,11 @@ What's gonna be next?
 
 #### 🌱 My latest projects
 
+- [Ferror/asyncapi-webinar](https://github.com/Ferror/asyncapi-webinar) - 
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data
 - [Ferror/phpstan-datadog-env](https://github.com/Ferror/phpstan-datadog-env) - Environment to reporduce phpstan datadog stubs
 - [Ferror/phpstan-ddtrace](https://github.com/Ferror/phpstan-ddtrace) - The phpstan STUBS for the datadog/dd-trace-php library, but more convinient
 - [Ferror/php-codeowners](https://github.com/Ferror/php-codeowners) - [WIP] Define PHP class ownership based on GitHub Codeowners
-- [Ferror/asyncapi-coverage](https://github.com/Ferror/asyncapi-coverage) - [WIP] Help your team analyse missing asyncapi documentation
 
 #### 🔭 Latest releases I've contributed to
 
