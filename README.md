@@ -13,7 +13,7 @@ What's gonna be next?
 - [Ferror/asyncapi-webinar](https://github.com/Ferror/asyncapi-webinar) -  (2 months ago)
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (2 months ago)
 - [asyncapi/community](https://github.com/asyncapi/community) - AsyncAPI community-related stuff. (7 months ago)
-- [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (7 months ago)
+- [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (8 months ago)
 - [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website (8 months ago)
 - [microcks/.github](https://github.com/microcks/.github) - Location of all reusable community health files (8 months ago)
 
