@@ -11,7 +11,7 @@ What's gonna be next?
 #### 👷 Check out what I'm currently working on
 
 - [Ferror/asyncapi-webinar](https://github.com/Ferror/asyncapi-webinar) -  (4 months ago)
-- [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (4 months ago)
+- [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (5 months ago)
 - [asyncapi/community](https://github.com/asyncapi/community) - AsyncAPI community-related stuff. (10 months ago)
 - [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (10 months ago)
 - [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website (10 months ago)
