@@ -10,20 +10,20 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/flight-pathfinder](https://github.com/Ferror/flight-pathfinder) -  (1 day ago)
+- [Ferror/flight-pathfinder](https://github.com/Ferror/flight-pathfinder) -  (today)
+- [Ferror/vallejo-model-color-chart](https://github.com/Ferror/vallejo-model-color-chart) -  (today)
 - [Ferror/asyncapi-webinar](https://github.com/Ferror/asyncapi-webinar) -  (6 months ago)
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (6 months ago)
 - [asyncapi/community](https://github.com/asyncapi/community) - AsyncAPI community-related stuff. (11 months ago)
 - [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (11 months ago)
-- [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website (1 year ago)
 
 #### 🌱 My latest projects
 
+- [Ferror/vallejo-model-color-chart](https://github.com/Ferror/vallejo-model-color-chart) - 
 - [Ferror/flight-pathfinder](https://github.com/Ferror/flight-pathfinder) - 
 - [Ferror/asyncapi-webinar](https://github.com/Ferror/asyncapi-webinar) - 
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data
 - [Ferror/phpstan-datadog-env](https://github.com/Ferror/phpstan-datadog-env) - Environment to reporduce phpstan datadog stubs
-- [Ferror/phpstan-ddtrace](https://github.com/Ferror/phpstan-ddtrace) - The phpstan STUBS for the datadog/dd-trace-php library, but more convinient
 
 #### 🔭 Latest releases I've contributed to
 
