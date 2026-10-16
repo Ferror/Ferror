@@ -10,11 +10,11 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/flight-pathfinder](https://github.com/Ferror/flight-pathfinder) -  (4 days ago)
-- [Ferror/vallejo-model-color-chart](https://github.com/Ferror/vallejo-model-color-chart) -  (4 days ago)
+- [Ferror/flight-pathfinder](https://github.com/Ferror/flight-pathfinder) -  (5 days ago)
+- [Ferror/vallejo-model-color-chart](https://github.com/Ferror/vallejo-model-color-chart) -  (5 days ago)
 - [Ferror/asyncapi-webinar](https://github.com/Ferror/asyncapi-webinar) -  (6 months ago)
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (6 months ago)
-- [asyncapi/community](https://github.com/asyncapi/community) - AsyncAPI community-related stuff. (11 months ago)
+- [asyncapi/community](https://github.com/asyncapi/community) - AsyncAPI community-related stuff. (1 year ago)
 - [Ferror/keynotes](https://github.com/Ferror/keynotes) -  (1 year ago)
 
 #### 🌱 My latest projects
