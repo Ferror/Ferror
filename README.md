@@ -10,7 +10,7 @@ What's gonna be next?
 
 #### 👷 Check out what I'm currently working on
 
-- [Ferror/flight-pathfinder](https://github.com/Ferror/flight-pathfinder) -  (1 week ago)
+- [Ferror/flight-pathfinder](https://github.com/Ferror/flight-pathfinder) -  (2 weeks ago)
 - [Ferror/vallejo-model-color-chart](https://github.com/Ferror/vallejo-model-color-chart) -  (2 weeks ago)
 - [Ferror/asyncapi-webinar](https://github.com/Ferror/asyncapi-webinar) -  (7 months ago)
 - [Ferror/vallejo-model-color-data](https://github.com/Ferror/vallejo-model-color-data) - The Vallejo Model Color paint chart as a data (7 months ago)
